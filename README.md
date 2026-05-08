@@ -20,3 +20,5 @@ IR sensors usually provide digital output.
 * LOW → Object detected
 * HIGH → No object detected
 The output depends on reflected infrared intensity.
+## 📡 ESP32 Interfacing
+The IR sensor output pin can be connected directly to ESP32 GPIO pins.
