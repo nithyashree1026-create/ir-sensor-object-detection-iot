@@ -4,3 +4,4 @@ Infrared (IR) sensors are widely used for object detection, proximity sensing, o
 This repository focuses on the working principle, internal architecture, ESP32 interfacing, signal behavior, and engineering applications of IR sensors.
 ## 🧠 Working Principle
 IR sensors work based on the transmission and reception of infrared radiation.
+The transmitter emits infrared light, while the receiver detects reflected infrared waves from nearby objects.
