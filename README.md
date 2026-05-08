@@ -10,3 +10,4 @@ The transmitter emits infrared light, while the receiver detects reflected infra
 * No object → No reflected IR detected
 ## ⚙️ Internal Components
 An IR sensor module generally consists of:
+* IR LED transmitter
