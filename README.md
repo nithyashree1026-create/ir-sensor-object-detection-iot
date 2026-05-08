@@ -50,3 +50,5 @@ ESP32 enables IR-based systems to become part of IoT networks.
 * Industrial automation
 * Smart parking systems
 * Touchless control systems
+## 🔮 Future Scope
+Combining IR sensing with AI vision systems and IoT platforms can enable more intelligent automation and tracking applications.
