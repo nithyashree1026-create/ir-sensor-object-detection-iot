@@ -19,3 +19,4 @@ IR sensors usually provide digital output.
 ### 🔹 Output States:
 * LOW → Object detected
 * HIGH → No object detected
+The output depends on reflected infrared intensity.
