@@ -16,3 +16,6 @@ An IR sensor module generally consists of:
 * Sensitivity adjustment potentiometer
 ## 🔌 Signal Behavior
 IR sensors usually provide digital output.
+### 🔹 Output States:
+* LOW → Object detected
+* HIGH → No object detected
