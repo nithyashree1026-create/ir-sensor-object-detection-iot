@@ -35,3 +35,9 @@ ESP32 enables IR-based systems to become part of IoT networks.
 * Automatic door systems
 * Conveyor object counting
 * Home automation systems
+## 🧩 Design Considerations
+### 🔹 Important Points:
+* Avoid direct sunlight interference
+* Adjust sensitivity properly
+* Ensure proper alignment
+* Maintain stable power supply
