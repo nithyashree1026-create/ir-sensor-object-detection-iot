@@ -56,3 +56,4 @@ Combining IR sensing with AI vision systems and IoT platforms can enable more in
 IR sensors provide efficient and low-cost object detection capabilities for embedded and IoT systems. When integrated with ESP32, they enable responsive and automated real-world applications.
 ## 📚 Learning Note
 This repository is part of my Embedded Systems and IoT learning journey, where I document sensor technologies and automation concepts while improving practical understanding.
+💡 *Detect objects. Automate systems. Build smarter solutions.*
