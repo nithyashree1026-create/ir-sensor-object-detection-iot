@@ -12,3 +12,5 @@ The transmitter emits infrared light, while the receiver detects reflected infra
 An IR sensor module generally consists of:
 * IR LED transmitter
 * Photodiode / phototransistor receiver
+* Comparator circuit
+* Sensitivity adjustment potentiometer
