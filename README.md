@@ -22,3 +22,9 @@ IR sensors usually provide digital output.
 The output depends on reflected infrared intensity.
 ## 📡 ESP32 Interfacing
 The IR sensor output pin can be connected directly to ESP32 GPIO pins.
+### 🔹 Flow:
+* IR emitted
+* Reflection detected
+* Signal sent to ESP32
+* ESP32 processes input
+* Automation action triggered
