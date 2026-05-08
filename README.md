@@ -28,5 +28,10 @@ The IR sensor output pin can be connected directly to ESP32 GPIO pins.
 * Signal sent to ESP32
 * ESP32 processes input
 * Automation action triggered
-  ## 🌐 IoT Integration
+## 🌐 IoT Integration
 ESP32 enables IR-based systems to become part of IoT networks.
+### 🔹 Applications:
+* Smart obstacle detection
+* Automatic door systems
+* Conveyor object counting
+* Home automation systems
