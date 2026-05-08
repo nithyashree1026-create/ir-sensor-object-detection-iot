@@ -8,3 +8,4 @@ The transmitter emits infrared light, while the receiver detects reflected infra
 ### 🔹 Detection Logic:
 * Object detected → Reflected IR received
 * No object → No reflected IR detected
+## ⚙️ Internal Components
