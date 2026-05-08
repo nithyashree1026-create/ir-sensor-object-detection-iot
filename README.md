@@ -52,3 +52,5 @@ ESP32 enables IR-based systems to become part of IoT networks.
 * Touchless control systems
 ## 🔮 Future Scope
 Combining IR sensing with AI vision systems and IoT platforms can enable more intelligent automation and tracking applications.
+## ✨ Conclusion
+IR sensors provide efficient and low-cost object detection capabilities for embedded and IoT systems. When integrated with ESP32, they enable responsive and automated real-world applications.
