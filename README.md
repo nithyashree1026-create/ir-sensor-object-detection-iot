@@ -14,3 +14,5 @@ An IR sensor module generally consists of:
 * Photodiode / phototransistor receiver
 * Comparator circuit
 * Sensitivity adjustment potentiometer
+## 🔌 Signal Behavior
+IR sensors usually provide digital output.
