@@ -45,3 +45,8 @@ ESP32 enables IR-based systems to become part of IoT networks.
 * Limited sensing distance
 * Affected by ambient infrared noise
 * Performance varies with object surface properties
+## 🚀 Advanced Applications
+* Line-following robots
+* Industrial automation
+* Smart parking systems
+* Touchless control systems
