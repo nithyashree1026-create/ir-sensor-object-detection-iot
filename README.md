@@ -6,3 +6,4 @@ This repository focuses on the working principle, internal architecture, ESP32 i
 IR sensors work based on the transmission and reception of infrared radiation.
 The transmitter emits infrared light, while the receiver detects reflected infrared waves from nearby objects.
 ### 🔹 Detection Logic:
+* Object detected → Reflected IR received
