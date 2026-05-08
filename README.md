@@ -41,3 +41,7 @@ ESP32 enables IR-based systems to become part of IoT networks.
 * Adjust sensitivity properly
 * Ensure proper alignment
 * Maintain stable power supply
+## ⚠️ Limitations
+* Limited sensing distance
+* Affected by ambient infrared noise
+* Performance varies with object surface properties
